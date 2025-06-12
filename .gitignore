@@ -1,0 +1,20 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Runtime data and logs
+*.log
+logs/
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
